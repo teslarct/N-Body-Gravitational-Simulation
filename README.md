@@ -96,3 +96,5 @@ Future improvements may include:
 ## Author
 
 Built by *teslarct* as part of a physics engine learning journey.
+
+## **Documentation drafted by AI and reviewed by a human.**
